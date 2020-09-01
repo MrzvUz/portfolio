@@ -62,15 +62,15 @@ a {
  **********************************************************************/
 
 .container {
-    /*show heigh: auto*/
-    height: 70vh;
+    /* show height: auto; */
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .cover {
-    width: 80rem;
+    width: 140rem;
 }
 
 /***********************************************************************
@@ -79,7 +79,7 @@ a {
 
 .grid-wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     grid-gap: 20px;
 }
 
