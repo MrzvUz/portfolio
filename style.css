@@ -80,13 +80,13 @@ a {
 .grid-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    grid-gap: 20px;
+    grid-gap: 5px;
 }
 
 .box {
     background-color: #444;
-    padding: 80px;
-    margin: 20px;
+    padding: 70px;
+    margin: 40px;
 }
 
 .box>img {
