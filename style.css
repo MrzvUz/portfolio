@@ -70,7 +70,7 @@ a {
 }
 
 .cover {
-    width: 90rem;
+    width: 120rem;
 }
 
 /***********************************************************************
@@ -85,8 +85,8 @@ a {
 
 .box {
     background-color: #444;
-    padding: 50px;
-    margin: 50px;
+    padding: 70px;
+    margin: 40px;
 }
 
 .box>img {
