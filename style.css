@@ -90,7 +90,7 @@ a {
 }
 
 .box>img {
-    width: 80%;
+    width: 100%;
 }
 
 .box:hover {
@@ -101,7 +101,7 @@ a {
 }
 
 .box>img {
-    width: 80%;
+    width: 100%;
     height: auto;
 }
 
