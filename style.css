@@ -63,14 +63,14 @@ a {
 
 .container {
     /* show height: auto; */
-    height: 70vh;
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .cover {
-    width: 100rem;
+    width: 90rem;
 }
 
 /***********************************************************************
@@ -101,7 +101,7 @@ a {
 }
 
 .box>img {
-    width: 80%;
+    width: 60%;
     height: auto;
 }
 
