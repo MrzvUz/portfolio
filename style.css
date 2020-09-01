@@ -63,14 +63,14 @@ a {
 
 .container {
     /* show height: auto; */
-    height: 90vh;
+    height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .cover {
-    width: 140rem;
+    width: 100rem;
 }
 
 /***********************************************************************
@@ -85,12 +85,12 @@ a {
 
 .box {
     background-color: #444;
-    padding: 30px;
-    margin: 30px;
+    padding: 70px;
+    margin: 50px;
 }
 
 .box>img {
-    width: 100%;
+    width: 80%;
 }
 
 .box:hover {
@@ -101,7 +101,7 @@ a {
 }
 
 .box>img {
-    width: 60%;
+    width: 80%;
     height: auto;
 }
 
